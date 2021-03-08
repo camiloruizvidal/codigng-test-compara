@@ -1,4 +1,4 @@
-# ComparaOnline Test Requirements Specification
+# ComparaOnline Test
 
 Proyecto creado usando NODEJS. Para poder revisar el resultado se debe ejecutar el codigo
 
